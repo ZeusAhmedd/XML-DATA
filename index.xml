@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
+<root>
+
+<child>
+<name>BABAR</name>
+<age>61</age>
+<address>shah faisal</address>
+<gender>Male</gender>
+</child>
+
+<child>
+    <name>RIZWAN</name>
+    <age>51</age>
+    <address>malir</address>
+    <gender>Male</gender>
+    
+    </child>
+
+    <child>
+        <name>SALMAN</name>
+        <age>41</age>
+        <address>saddar</address>
+        <gender>Male</gender>
+        
+        </child>
+
+        <child>
+            <name>ZAMAN</name>
+            <age>31</age>
+            <address>johur</address>
+            <gender>Male</gender>
+            
+            </child>
+
+            <child>
+                <name>Amir</name>
+                <age>21</age>
+                <address>gulshan</address>
+                <gender>Male</gender>
+                
+                </child>
+
+</root>
